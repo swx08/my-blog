@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.DaTdCRDa.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{"hidden":true},"headers":[],"relativePath":"es/index.md","filePath":"es/index.md","lastUpdated":null}'),n={name:"es/index.md"};function s(r,d,o,c,i,p){return t(),a("div")}const m=e(n,[["render",s]]);export{l as __pageData,m as default};

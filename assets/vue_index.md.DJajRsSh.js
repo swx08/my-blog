@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.DaTdCRDa.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{"hidden":true},"headers":[],"relativePath":"vue/index.md","filePath":"vue/index.md","lastUpdated":null}'),n={name:"vue/index.md"};function r(d,o,s,c,i,p){return t(),a("div")}const m=e(n,[["render",r]]);export{l as __pageData,m as default};
